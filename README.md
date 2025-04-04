@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhanaislam52-pmishra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <!--
 **suhanaislam52/suhanaislam52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
