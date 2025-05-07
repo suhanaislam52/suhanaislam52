@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://github.com/suhanaislam52/File/raw/main/giphy.gif" alt="Character Typing Animation" width="300" height="auto">
+<div align="center">
+  <img src="https://github.com/suhanaislam52/File/raw/main/giphy.gif" alt="Character Typing Animation" width="300" height="auto">
+</div>
+
 
 ### 📫 Connect With Me
 
