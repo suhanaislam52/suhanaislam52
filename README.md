@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 
 ### 🔥 My Top Projects
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -86,6 +88,17 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<br />
+
+<a href="https://github.com/XavierRolex/Food-Classification-Model">
+  <img src="https://img.shields.io/badge/Food%20Classification%20Model-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Food Classification Model" />
+</a>
+<br />
+<p style="text-align:center; max-width:600px;">A deep learning project that uses convolutional neural networks (CNNs) to classify food images into multiple categories. Built for computer vision practice and real-world food recognition tasks.</p>
+
+</div>
+
 
 
 ---
