@@ -84,6 +84,7 @@ An online shopping platform with user authentication, product listings, cart sys
 ---
 
 ![Progress](https://img.shields.io/badge/Progress-75%25-yellowgreen)
+![Tech Animation](https://media.giphy.com/media/Km8QUBYBbmClu/giphy.gif)
 
 ---
 
