@@ -68,11 +68,25 @@ Here are some ideas to get you started:
 
 ### 🔥 My Top Projects
 
-🔹 **[Hotel Management System](https://github.com/suhanaislam52/Hotel-Management-System)**  
-A Hotel website used to book your reservation and to monitor all available facilities in the hotel
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/suhanaislam52/Hotel-Management-System">
+        <img src="https://img.shields.io/badge/Hotel%20Management%20System-Repository-blue?style=for-the-badge&logo=github" alt="Hotel Management Repo Badge" />
+      </a>
+      <br />
+      <p>A Hotel website used to book your reservation and monitor all available facilities.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/suhanaislam52/ecommerce">
+        <img src="https://img.shields.io/badge/E--Commerce%20Website-Repository-blueviolet?style=for-the-badge&logo=github" alt="E-Commerce Repo Badge" />
+      </a>
+      <br />
+      <p>An online shopping platform with authentication, product listing, and cart system.</p>
+    </td>
+  </tr>
+</table>
 
-🔹 **[E-Commerce Website](https://github.com/suhanaislam52/ecommerce)**  
-An online shopping platform with user authentication, product listings, cart system, and more.
 
 ---
 
