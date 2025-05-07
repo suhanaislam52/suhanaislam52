@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 
 ### 🔥 My Top Projects
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -77,31 +75,29 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Hotel%20Management%20System-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Hotel Management System" />
       </a>
       <br />
-      <p>A dynamic hotel management website built using HTML, CSS, and raw PHP. It allows users to make reservations and provides an admin panel to manage employee details and monitor operations.</p>
+      <p style="max-width: 300px;">A dynamic hotel management website built using HTML, CSS, and raw PHP. It allows users to make reservations and provides an admin panel to manage employee details and monitor operations.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/suhanaislam52/ecommerce">
         <img src="https://img.shields.io/badge/E--Commerce%20Website-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Website" />
       </a>
       <br />
-      <p>A complete e-commerce platform to browse, purchase, add, and delete products across various categories. Includes admin access to track all user activities and manage transactions.</p>
+      <p style="max-width: 300px;">A complete e-commerce platform to browse, purchase, add, and delete products across various categories. Includes admin access to track all user activities and manage transactions.</p>
     </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center" width="50%">
-      <a href="https://github.com/XavierRolex/Food-Classification-Model">
-        <img src="https://img.shields.io/badge/Food%20Classification%20Model-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Food Classification Model" />
-      </a>
-      <br />
-      <p>A deep learning project that uses convolutional neural networks (CNNs) to classify food images into multiple categories. Built for computer vision practice and real-world food recognition tasks.</p>
-    </td>
-    <td></td>
   </tr>
 </table>
 
-</div>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/XavierRolex/Food-Classification-Model">
+    <img src="https://img.shields.io/badge/Food%20Classification%20Model-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Food Classification Model" />
+  </a>
+  <br />
+  <p style="max-width: 400px; text-align: center; margin: 0 auto;">
+    A deep learning project that uses convolutional neural networks (CNNs) to classify food images into multiple categories. Built for computer vision practice and real-world food recognition tasks.
+  </p>
+</p>
 
 
 ---
