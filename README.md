@@ -88,9 +88,14 @@ An online shopping platform with user authentication, product listings, cart sys
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress-75%25-yellowgreen)
-
-
+<div align="center">
+  <p><b>Progress</b></p>
+  <div style="width: 70%; background-color: #ddd; border-radius: 10px; height: 25px;">
+    <div style="width: 75%; background-color: yellowgreen; height: 100%; border-radius: 10px; text-align: center; line-height: 25px; color: black;">
+      75%
+    </div>
+  </div>
+</div>
 
 
 ---
