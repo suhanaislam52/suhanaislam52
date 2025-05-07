@@ -72,14 +72,14 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/suhanaislam52/Hotel-Management-System">
-        <img src="https://img.shields.io/badge/Hotel%20Management%20System-Repository-blue?style=for-the-badge&logo=github" alt="Hotel Management Repo Badge" />
+        <img src="https://img.shields.io/badge/Hotel%20Management%20System-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Hotel Management System" />
       </a>
       <br />
       <p>A Hotel website used to book your reservation and monitor all available facilities.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/suhanaislam52/ecommerce">
-        <img src="https://img.shields.io/badge/E--Commerce%20Website-Repository-blueviolet?style=for-the-badge&logo=github" alt="E-Commerce Repo Badge" />
+        <img src="https://img.shields.io/badge/E--Commerce%20Website-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Website" />
       </a>
       <br />
       <p>An online shopping platform with authentication, product listing, and cart system.</p>
