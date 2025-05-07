@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ### 🔥 My Top Projects
 
 🔹 **[Hotel Management System](https://github.com/suhanaislam52/Hotel-Management-System)**  
-A desktop-based system to manage hotel operations like booking, customer info, and billing.
+A Hotel website used to book your reservation and to monitor all available facilities in the hotel
 
 🔹 **[E-Commerce Website](https://github.com/suhanaislam52/ecommerce)**  
 An online shopping platform with user authentication, product listings, cart system, and more.
