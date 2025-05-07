@@ -76,10 +76,10 @@ An online shopping platform with user authentication, product listings, cart sys
 
 ### 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-suhanaislam52@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanaislam52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhana%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhana-islam-a87803364/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-suhanaislam52-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/suhanaislam52)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-suhana-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17252343/suhana)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanaislam52@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhana-islam-a87803364/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/suhanaislam52)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17252343/suhana)
 
 ---
 
