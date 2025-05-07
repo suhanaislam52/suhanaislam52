@@ -84,7 +84,8 @@ An online shopping platform with user authentication, product listings, cart sys
 ---
 
 ![Progress](https://img.shields.io/badge/Progress-75%25-yellowgreen)
-![Character Typing Animation](https://github.com/suhanaislam52/File/raw/main/giphy.gif)
+<img src="https://github.com/suhanaislam52/File/raw/main/giphy.gif" alt="Character Typing Animation" width="300" height="auto">
+
 
 
 ---
