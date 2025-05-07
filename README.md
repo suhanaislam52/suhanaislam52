@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   </a>
   <br />
   <p style="max-width: 400px; text-align: center; margin: 0 auto;">
-    A deep learning project that uses convolutional neural networks (CNNs) to classify food images into multiple categories. Built for computer vision practice and real-world food recognition tasks.
+   This machine learning model, developed in Jupyter Notebook, is designed to classify food as either healthy or unhealthy based on its nutrient content. The model is trained using various algorithms, including logistic regression and decision trees. To further improve its performance, ensemble techniques are applied, and hyperparameter tuning is used to optimize its accuracy.
   </p>
 </p>
 
