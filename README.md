@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎓 I'm an undergraduate student passionate about full-stack development and real-world software solutions.  
 💻 I love building applications using Python, Django, and modern web technologies.  
 🧠 I’m exploring machine learning using Jupyter Notebook and mainly code in VS Code.  
-🚀 I’m currently building cross-platform apps with Flutter and Dart.
+🚀 I’m currently building cross-platform apps with Flutter and Dart.  
 🌱 Always eager to learn, build, and grow as a developer!
 
 ---
