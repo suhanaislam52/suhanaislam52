@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 🎓 I'm an undergraduate student passionate about full-stack development and real-world software solutions.  
 💻 I love building applications using Python, Django, and modern web technologies.  
 🧠 I’m exploring machine learning using Jupyter Notebook and mainly code in VS Code.  
+🚀 I’m currently building cross-platform apps with Flutter and Dart.
 🌱 Always eager to learn, build, and grow as a developer!
 
 ---
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 **Frameworks & Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -63,6 +66,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
 
 ---
 
