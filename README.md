@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=orange)](https://www.codechef.com/users/codebysuhana)
 
 
-
-
 ### 🛠️ Tech Stack
 
 **Languages:**  
