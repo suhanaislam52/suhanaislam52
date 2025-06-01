@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17252343/suhana)
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=orange)](https://www.codechef.com/users/codebysuhana)
 
-
 ### 🛠️ Tech Stack
 
 **Languages:**  
@@ -74,6 +73,30 @@ Here are some ideas to get you started:
 
 
 ---
+
+
+<div align="center">
+  <details>
+    <summary style="font-size: 1.2rem; cursor: pointer;">
+      🚨 <strong>Don't Click</strong> ❗✨
+    </summary>
+    <br>
+    <p><em>Well, you clicked anyway... 😏</em></p>
+    <p>
+      That curiosity? That’s exactly how debugging works.  
+      You see a bug, you say *“I'll fix it tomorrow morning”*, and then boom—2 hours later you're refactoring half the project at 2 AM.  
+      Welcome to the developer mindset! 💻🔥
+    </p>
+    <br>
+    <h3 style="display: inline-block; font-weight: bold; color: #ff69b4;">
+      "The expert in anything was once a beginner."
+    </h3>
+    <em>— Helen Hayes</em>
+  </details>
+</div>
+
+
+
 
 ### 🔥 My Top Projects
 
