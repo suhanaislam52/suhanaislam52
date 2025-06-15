@@ -124,7 +124,7 @@ Here are some ideas to get you started:
     <p>
       That curiosity? That’s exactly how debugging works.  
       You see a bug, you say “I'll fix it tomorrow morning”, and then boom—2 hours later you're refactoring half the project at 2 AM.  
-      Welcome to the developer mindset! 💻🔥
+      Welcome to the developer mindset! 
     </p>
     <br>
     <h3 style="display: inline-block; font-weight: bold; color: #ff69b4;">
