@@ -104,12 +104,12 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/XavierRolex/Food-Classification-Model">
-    <img src="https://img.shields.io/badge/Food%20Classification%20Model-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Food Classification Model" />
+  <a href="https://github.com/suhanaislam52/AUTOFOND-Fair_and_Automated_Domain_Generalization_Network.git">
+    <img src="https://img.shields.io/badge/AUTOFOND%20-%20Fair%20%26%20Automated%20Domain%20Generalization%20Network-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="AUTOFOND - Fair and Automated Domain Generalization Network" />
   </a>
   <br />
-  <p style="max-width: 400px; text-align: center; margin: 0 auto;">
-   This machine learning model, developed in Jupyter Notebook, is designed to classify food as either healthy or unhealthy based on its nutrient content. The model is trained using various algorithms, including logistic regression and decision trees. To further improve its performance, ensemble techniques are applied, and hyperparameter tuning is used to optimize its accuracy.
+  <p style="max-width: 500px; text-align: center; margin: 0 auto;">
+   AUTOFOND is a deep learning framework designed to achieve fair and automated domain generalization across diverse datasets. The model focuses on improving robustness and reducing bias when transferring knowledge between domains. It integrates automated model selection, domain-invariant feature learning, and fairness-aware optimization techniques to enhance generalization performance in real-world scenarios.
   </p>
 </p>
 
