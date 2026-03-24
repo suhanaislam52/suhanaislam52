@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanaislam52&show_icons=true&theme=default" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=suhanaislam52&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhanaislam52&theme=default&date_format=j%20M%5B%20Y%5D" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanaislam52&layout=compact" alt="Top Languages" />
 </p>
