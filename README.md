@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 💻 I love building applications using Python, Django, and modern web technologies.  
 🧠 I’m exploring machine learning using Jupyter Notebook and mainly code in VS Code.  
 🚀 I have built cross-platform apps with Flutter and Dart.  
-    I am familiar with neurosymbolic AI field
+    I am familiar with neurosymbolic AI field   
 🌱 Always eager to learn, build, and grow as a developer!
 
 ---
