@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hey there! I'm Suhana Islam
+### 👋 Hi! I'm Suhana Islam
 
 🎓 Computer Science graduate with a strong foundation in software development, machine learning, and AI research.
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 🔬 My experience also includes working with simulation tools (SimVascular) for data generation and applying machine learning models to real-world scientific problems.
 
 🌱 I’m interested in software engineering, AI systems, and building practical solutions that combine research and engineering.
+
 ---
 
 <div align="center">
