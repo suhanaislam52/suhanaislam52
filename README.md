@@ -85,18 +85,21 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="50%">
+     <a href="https://github.com/suhanaislam52/Flow_Net_CoA.git">
+       <img src="https://img.shields.io/badge/Flow_Net_CoA-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Flow_Net_CoA" />
+     </a>
+     <br />
+     <p style="max-width: 300px;">
+    A software which uses a neural surrogate model for simulating the hemodynamics of Aortic Coarctation. The system predicts hemodynamic parameters for next time step, enabling efficient and scalable cardiovascular flow analysis.
+  </p>
+</td>
+    <td align="center" width="50%">
       <a href="https://github.com/suhanaislam52/Hotel-Management-System">
         <img src="https://img.shields.io/badge/Hotel%20Management%20System-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Hotel Management System" />
       </a>
       <br />
       <p style="max-width: 300px;">A dynamic hotel management website built using HTML, CSS, and raw PHP. It allows users to make reservations and provides an admin panel to manage employee details and monitor operations.</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/suhanaislam52/ecommerce">
-        <img src="https://img.shields.io/badge/E--Commerce%20Website-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Website" />
-      </a>
-      <br />
-      <p style="max-width: 300px;">A complete e-commerce platform to browse, purchase, add, and delete products across various categories. Includes admin access to track all user activities and manage transactions.</p>
     </td>
   </tr>
 </table>
