@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 ### 👋 Hey there! I'm Suhana Islam
 
-🎓 I'm an undergraduate student passionate about full-stack development and real-world software solutions.  
-💻 I love building applications using Python, Django, and modern web technologies.  
-🧠 I’m exploring machine learning using Jupyter Notebook and mainly code in VS Code.  
-🚀 I have built cross-platform apps with Flutter and Dart.  
-    I am familiar with neurosymbolic AI field   
-🌱 Always eager to learn, build, and grow as a developer!
+🎓 Computer Science graduate with a strong foundation in software development, machine learning, and AI research.
 
+💻 I enjoy building full-stack applications using Python, Django, PHP, and modern web technologies.
+
+🧠 I have academic and project experience in machine learning, neural networks, and natural language processing, including work in prompt engineering and domain generalization.
+
+🚀 I developed cross-platform and research-based systems such as Flow_Net_CoA, where I worked on neural surrogate modeling for simulating hemodynamic behavior using graph-based learning approaches.
+
+🔬 My experience also includes working with simulation tools (SimVascular) for data generation and applying machine learning models to real-world scientific problems.
+
+🌱 I’m interested in software engineering, AI systems, and building practical solutions that combine research and engineering.
 ---
 
 <div align="center">
