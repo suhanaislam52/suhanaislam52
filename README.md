@@ -135,7 +135,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress-75%25-yellowgreen)
----
-
 _Thanks for visiting my profile! Let's build something great together.
