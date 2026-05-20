@@ -135,4 +135,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 📊 Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suhanaislam52&bg_color=ffffff&color=000000&line=0e75b6&point=000000&area=true&hide_border=true" 
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
 _Thanks for visiting my profile! Let's build something great together.
