@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 🔬 My experience also includes working with simulation tools (SimVascular) for data generation and applying machine learning models to real-world scientific problems.
 
+🎮 I am also exploring game development using Godot 4, building interactive prototypes and learning engine-based game design.
+
 🌱 I’m interested in software engineering, AI systems, and building practical solutions that combine research and engineering.
 
 ---
@@ -78,6 +80,7 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
