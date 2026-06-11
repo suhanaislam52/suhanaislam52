@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2 align="center">Want to See My Work in Action?</h2>
 
 <p align="center">
-  <a href="https://portfolio-website-suhanaislam.vercel.app" target="_blank">
+  <a href="https://suhanaislam.vercel.app" target="_blank">
     <b>View My Portfolio →</b>
   </a>
 </p>
