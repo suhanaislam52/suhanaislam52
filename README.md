@@ -21,6 +21,24 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi! I'm Suhana Islam
+<h2 align="center">Want to See My Work in Action?</h2>
+
+<p align="center">
+  <a href="https://portfolio-website-suhanaislam.vercel.app" target="_blank">
+    <b>View My Portfolio →</b>
+  </a>
+</p>
+<p align="center">
+  <i>
+     A curated collection of my projects, research work, and real-world applications in AI, machine learning, and full-stack development.  
+     Includes case studies, live demos, and engineering work that goes beyond GitHub repositories — showing how I think, build, and solve problems.  
+    👉 If you're a recruiter or collaborator, this is the fastest way to understand my work beyond code.
+  </i>
+</p>
+
+<p>
+  Beyond this, here’s a brief overview of my background and technical journey.
+</p>
 
 🎓 Computer Science graduate with a strong foundation in software development, machine learning, and AI research.
 
